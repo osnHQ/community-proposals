@@ -1,13 +1,21 @@
 # Welcome to the OSN Community Proposals repository!
 
-This repository serves as a central hub for all proposals submitted by the OSN community.  Here, you'll find a variety of documents outlining ideas, improvements, and potential new directions for the OSN platform and ecosystem.
+This repository serves as a central hub for all proposals submitted by the OSN community. Here, you'll find a variety of documents outlining ideas, improvements, and potential new directions for the OSN platform and ecosystem.
 
 ## What You'll Find Here:
 
 *Product Requirements*: Detailed specifications for proposed features and functionalities within the OSN platform.  
 *SOPs (Standard Operating Procedures)*: Documents outlining best practices and processes for various aspects of OSN operations.  
-*Community Proposals*: Creative ideas, suggestions, and potential solutions submitted by the broader OSN community.  
+*Community Proposals*: Creative ideas, suggestions, and potential solutions submitted by the broader OSN community.
 
+## What You Do With This Repository
+
+**Find and Contribute to Ideas**
+
+## How to Find Ideas?
+
+**Comment on issues your approach**  
+**Join Discord and brainstorm in #idea channel**
 
 ## Contributing to the Repository:
 
@@ -18,7 +26,6 @@ We encourage active participation from the OSN community! If you have an idea to
 3. Create a new Markdown file within your branch, following the provided template below.  
 4. Fill out the template with details about your proposal, including its goals, functionalities, and potential benefits.  
 5. Submit a Pull Request to merge your proposal branch into the main branch of this repository.  
-  
   
 ### Proposal Template:
 
@@ -40,10 +47,10 @@ Additional Information: (Optional section for any further details or considerati
 
 All submitted proposals will undergo a review process by the OSN team.
 
-We will provide feedback and comments through the Pull Request process.
-Accepted proposals will be merged into the main branch of this repository.
+We will provide feedback and comments through the Pull Request process.  
+Accepted proposals will be merged into the main branch of this repository.  
 We will communicate the implementation timeline and next steps for accepted proposals.
-Community Discussions:
+
+## Community Discussions:
 
 We believe in fostering an open and collaborative environment. Feel free to leave comments and feedback on existing proposals within the Pull Request discussions. This fosters collaboration and helps refine ideas.
-
