@@ -35,12 +35,18 @@ body:
       label: "🔧 Project Type"
       description: "Select the type of project"
       options:
-        - Mobile App
-        - Desktop App
-        - Infrastructure
-        - Web3 dapp
-        - Telegram App
-        - other
+        - label: Mobile App
+          value: Mobile App
+        - label: Desktop App
+          value: Desktop App
+        - label: Infrastructure
+          value: Infrastructure
+        - label: Web3 dapp
+          value: Web3 dapp
+        - label: Telegram App
+          value: Telegram App
+        - label: Other
+          value: Other
 
   - type: textarea
     id: tech_stack
@@ -59,9 +65,12 @@ body:
       label: "🚀 Complexity"
       description: "Select the estimated complexity level of the project"
       options:
-        - Beginner
-        - Intermediate
-        - Advanced
+        - label: Beginner
+          value: Beginner
+        - label: Intermediate
+          value: Intermediate
+        - label: Advanced
+          value: Advanced
 
   - type: input
     id: estimated_time

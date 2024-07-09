@@ -1,56 +1,70 @@
-# Welcome to the OSN Community Proposals repository!
+# 🌟 Welcome to OSN (Open Sources Network) Project Ideas
 
-This repository serves as a central hub for all proposals submitted by the OSN community. Here, you'll find a variety of documents outlining ideas, improvements, and potential new directions for the OSN platform and ecosystem.
+Welcome to the OSN community! At OSN, we aim to create a vibrant, collaborative environment for developers to bring their innovative ideas to life. Whether you're passionate about Web3, OpenAI, blockchain, or any other cutting-edge technology, we want to help your smallest ideas catch the world's eye.
 
-## What You'll Find Here:
+---
 
-*Product Requirements*: Detailed specifications for proposed features and functionalities within the OSN platform.  
-*SOPs (Standard Operating Procedures)*: Documents outlining best practices and processes for various aspects of OSN operations.  
-*Community Proposals*: Creative ideas, suggestions, and potential solutions submitted by the broader OSN community.
+## 📂 Explore Project Ideas
+**[Browse Existing Ideas ➡️](https://github.com/osnHQ/community-proposals/issues)**
 
-## What You Do With This Repository
+Discover innovative ideas, join ongoing projects, or get inspired to start your own.
 
-**Find and Contribute to Ideas**
+---
 
-## How to Find Ideas?
+## 💡 Submit Your Project Idea
 
-**Comment on issues your approach**  
-**Join Discord and brainstorm in #idea channel**
+Have a groundbreaking idea? We'd love to hear it! [Submit your project idea](https://github.com/osnHQ/community-proposals/issues/new?template=project_idea.yml) and collaborate with the community to bring it to life.
 
-## Contributing to the Repository:
+---
 
-We encourage active participation from the OSN community! If you have an idea to improve OSN, follow these steps to submit your proposal:
+### How to Submit Your Project Idea
 
-1. Fork this repository.  
-2. Create a new branch for your proposal with a clear and descriptive name. (e.g., "feature-xyz" or "sop-code-review")  
-3. Create a new Markdown file within your branch, following the provided template below.  
-4. Fill out the template with details about your proposal, including its goals, functionalities, and potential benefits.  
-5. Submit a Pull Request to merge your proposal branch into the main branch of this repository.  
-  
-### Proposal Template:
+To ensure a smooth submission process, please provide the following details for your project idea:
 
-Title: (A concise and descriptive title for your proposal)
+1. **📌 Project Title:** Provide a short and descriptive title for your project idea.
+2. **📝 Project Description:** Describe your project idea in detail.
+3. **🔧 Project Type:** Select the type of project (Mobile App, Desktop App, Infrastructure, Web3 dapp, Telegram App, other).
+4. **🔧 Suggested Tech Stack:** List the technologies you propose to use for this project.
+5. **🚀 Complexity:** Select the estimated complexity level of the project (Beginner, Intermediate, Advanced).
+6. **⏳ Estimated Time Required:** Estimate the time needed to complete the project.
+7. **📎 Additional Notes:** Any additional information or notes about your project idea.
 
-Author: (Your name/username)
+---
 
-Date: (Date of submission)
+### Project Categories
 
-Type: (Product Requirement, SOP, or Community Proposal)
+Filter ideas by category to find the ones that interest you the most:
 
-Summary: (A brief overview of your proposal and its intended impact on OSN)
+* [Mobile App](https://github.com/osnHQ/community-proposals/issues?q=label%3AMobile%20App)
+* [Desktop App](https://github.com/osnHQ/community-proposals/issues?q=label%3ADesktop%20App)
+* [Infrastructure](https://github.com/osnHQ/community-proposals/issues?q=label%3AInfrastructure)
+* [Web3 dapp](https://github.com/osnHQ/community-proposals/issues?q=label%3AWeb3%20dapp)
+* [Telegram App](https://github.com/osnHQ/community-proposals/issues?q=label%3ATelegram%20App)
+* [Other](https://github.com/osnHQ/community-proposals/issues?q=label%3AOther)
 
-Details: (In-depth explanation of your proposal, including goals, functionalities, potential benefits, and any relevant diagrams or mockups)
 
-Additional Information: (Optional section for any further details or considerations)
+---
 
-## Review Process:
+### 🏷️ Complexity Levels
 
-All submitted proposals will undergo a review process by the OSN team.
+* [Beginner](https://github.com/osnHQ/community-proposals/issues?q=label%3ABeginner)
+* [Intermediate](https://github.com/osnHQ/community-proposals/issues?q=label%3AIntermediate)
+* [Advanced](https://github.com/osnHQ/community-proposals/issues?q=label%3AAdvanced)
 
-We will provide feedback and comments through the Pull Request process.  
-Accepted proposals will be merged into the main branch of this repository.  
-We will communicate the implementation timeline and next steps for accepted proposals.
+---
 
-## Community Discussions:
+## 🎉 Join Our Community
 
-We believe in fostering an open and collaborative environment. Feel free to leave comments and feedback on existing proposals within the Pull Request discussions. This fosters collaboration and helps refine ideas.
+We believe in the power of collaboration. Join our community on Discord to discuss ideas, get feedback, and work together on exciting projects.
+
+**[Join our Discord 🌐](https://discord.com/invite/TYPWQJFZCE)**
+
+---
+
+## 🌍 Let's Build the Future Together
+
+At OSN, we're committed to creating a welcoming, inclusive, and supportive community for all. Let's work together to drive innovation and make a positive impact on the world through open-source projects.
+
+**[Learn more about OSN](https://opensources.network/)**
+
+---
