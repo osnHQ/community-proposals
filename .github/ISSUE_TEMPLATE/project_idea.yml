@@ -1,32 +1,34 @@
-name: "Project Idea Submission"
+name: "💡 Project Idea Submission"
 description: "Submit your project ideas using this template"
-title: "Title - Project Idea: [Your Project Title]"
+title: "💡 Project Idea: [Your Project Title]"
 labels: ["project-idea"]
 body:
   - type: markdown
     attributes:
       value: |
-        ## Project Idea Submission
+        ## 💡 Project Idea Submission
         Please provide the following details for your project idea submission.
 
   - type: input
     id: title
     attributes:
-      label: "Project Title"
+      label: "📌 Project Title"
       description: "Provide a short and descriptive title for your project idea"
       placeholder: "e.g., Decentralized Voting App"
+      required: true
 
   - type: textarea
     id: description
     attributes:
-      label: "Project Description"
+      label: "📝 Project Description"
       description: "Describe your project idea in detail"
       placeholder: "e.g., A decentralized application for secure and transparent voting using blockchain technology."
+      required: true
 
   - type: dropdown
     id: project_type
     attributes:
-      label: "Project Type"
+      label: "🔧 Project Type"
       description: "Select the type of project"
       options:
         - Web3
@@ -34,34 +36,38 @@ body:
         - Mobile App
         - Desktop App
         - Other
+      required: true
 
   - type: textarea
     id: tech_stack
     attributes:
-      label: "Suggested Tech Stack"
+      label: "🔧 Suggested Tech Stack"
       description: "List the technologies you propose to use for this project"
       placeholder: "e.g., React, Node.js, Ethereum, Solidity"
+      required: true
 
   - type: dropdown
     id: complexity
     attributes:
-      label: "Complexity"
+      label: "🚀 Complexity"
       description: "Select the estimated complexity level of the project"
       options:
         - Beginner
         - Intermediate
         - Advanced
+      required: true
 
   - type: input
     id: estimated_time
     attributes:
-      label: "Estimated Time Required"
+      label: "⏳ Estimated Time Required"
       description: "Estimate the time needed to complete the project"
       placeholder: "e.g., 4 weeks"
+      required: true
 
   - type: textarea
     id: additional_notes
     attributes:
-      label: "Additional Notes"
+      label: "📎 Additional Notes"
       description: "Any additional information or notes about your project idea"
       placeholder: "e.g., This project will require collaboration with a blockchain expert."
