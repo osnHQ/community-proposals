@@ -11,22 +11,26 @@ body:
 
   - type: input
     id: title
+    validations:
+      required: true
     attributes:
       label: "📌 Project Title"
       description: "Provide a short and descriptive title for your project idea"
       placeholder: "e.g., Decentralized Voting App"
-      required: true
 
   - type: textarea
     id: description
+    validations:
+      required: true
     attributes:
       label: "📝 Project Description"
       description: "Describe your project idea in detail"
       placeholder: "e.g., A decentralized application for secure and transparent voting using blockchain technology."
-      required: true
 
   - type: dropdown
     id: project_type
+    validations:
+      required: true
     attributes:
       label: "🔧 Project Type"
       description: "Select the type of project"
@@ -36,18 +40,20 @@ body:
         - Mobile App
         - Desktop App
         - Other
-      required: true
 
   - type: textarea
     id: tech_stack
+    validations:
+      required: true
     attributes:
       label: "🔧 Suggested Tech Stack"
       description: "List the technologies you propose to use for this project"
       placeholder: "e.g., React, Node.js, Ethereum, Solidity"
-      required: true
 
   - type: dropdown
     id: complexity
+    validations:
+      required: true
     attributes:
       label: "🚀 Complexity"
       description: "Select the estimated complexity level of the project"
@@ -55,15 +61,15 @@ body:
         - Beginner
         - Intermediate
         - Advanced
-      required: true
 
   - type: input
     id: estimated_time
+    validations:
+      required: true
     attributes:
       label: "⏳ Estimated Time Required"
       description: "Estimate the time needed to complete the project"
       placeholder: "e.g., 4 weeks"
-      required: true
 
   - type: textarea
     id: additional_notes
