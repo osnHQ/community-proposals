@@ -35,11 +35,11 @@ To ensure a smooth submission process, please provide the following details for 
 
 Filter ideas by category to find the ones that interest you the most:
 
-* [Mobile App](https://github.com/osnHQ/community-proposals/issues?q=label%3AMobile%20App)
-* [Desktop App](https://github.com/osnHQ/community-proposals/issues?q=label%3ADesktop%20App)
+* [Mobile App](https://github.com/osnHQ/community-proposals/issues?q=label%3A%22Mobile%20App%22)
+* [Desktop App](https://github.com/osnHQ/community-proposals/issues?q=label%3A%22Desktop%20App%22)
 * [Infrastructure](https://github.com/osnHQ/community-proposals/issues?q=label%3AInfrastructure)
-* [Web3 dapp](https://github.com/osnHQ/community-proposals/issues?q=label%3AWeb3%20dapp)
-* [Telegram App](https://github.com/osnHQ/community-proposals/issues?q=label%3ATelegram%20App)
+* [Web3 dapp](https://github.com/osnHQ/community-proposals/issues?q=label%3A%22Web3%20dapp%22)
+* [Telegram App](https://github.com/osnHQ/community-proposals/issues?q=label%3A%22Telegram%20App%22)
 * [Other](https://github.com/osnHQ/community-proposals/issues?q=label%3AOther)
 
 
