@@ -35,11 +35,12 @@ body:
       label: "🔧 Project Type"
       description: "Select the type of project"
       options:
-        - Web3
-        - Web2
         - Mobile App
         - Desktop App
-        - Other
+        - Infrastructure
+        - Web3 dapp
+        - Telegram App
+        - other
 
   - type: textarea
     id: tech_stack
