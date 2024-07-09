@@ -60,12 +60,9 @@ body:
       label: "🚀 Complexity"
       description: "Select the estimated complexity level of the project"
       options:
-        - label: Beginner
-          value: Beginner
-        - label: Intermediate
-          value: Intermediate
-        - label: Advanced
-          value: Advanced
+        - Beginner
+        - Intermediate
+        - Advanced
 
   - type: input
     id: estimated_time
