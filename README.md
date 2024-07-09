@@ -1,6 +1,6 @@
 # 🌟 Welcome to OSN (Open Sources Network) Project Ideas
 
-Welcome to the OSN community! At OSN, we aim to create a vibrant, collaborative environment for developers to bring their innovative ideas to life. Whether you're passionate about Web3, OpenAI, blockchain, or any other cutting-edge technology, we want to help your smallest ideas catch the world's eye.
+Welcome to the OSN community! At OSN, we aim to create a vibrant, collaborative environment for developers to bring their innovative ideas to life. Whether you're passionate about Web3, OpenAI, blockchain, or any other cutting-edge technology, we want to help your ideas catch the world's eye.
 
 ---
 
